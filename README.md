@@ -21,7 +21,7 @@ Companies often face losses due to poor inventory practices, inefficient pricing
 |-------------|----------------------------------|
 | **Python**  | Data analysis & scripting        |
 | **Pandas**  | Data manipulation                |
-| **SQL**     | Data extraction from SQLite      |
+| **SQL**     | Data extraction from MySQL       |
 | **Power BI**| Dashboard creation               |
 | **AWS**     | Cloud Storage                    |
 | **Matplotlib/Seaborn** | Visual analytics      |
@@ -94,13 +94,12 @@ ORDER BY ps.TotalPurchaseDollars DESC
 """, connection)
 
 ```
+Access the "data" file here: https://drive.google.com/file/d/1Zr1yP-5hGE_3m1Nc4tLf0yCmdOeOCuGk/view?usp=sharing
 
 ## Power BI Dashboard Preview
 
 Below is a preview of the Power BI dashboard showing key vendor KPIs:
 <img width="1071" height="604" alt="Image" src="images/Power_BI.png"> 
-
----
 
 ---
 
